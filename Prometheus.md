@@ -1,5 +1,4 @@
-
-Lear Prometheus+Grafana Step By STEP
+Learn Prometheus+Grafana Step By STEP
 ====================================
 
 ## Written By
