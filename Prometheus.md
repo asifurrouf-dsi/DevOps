@@ -1,24 +1,19 @@
 
-Lear JEST Step By STEP
-======================
+Lear Prometheus+Grafana Step By STEP
+====================================
 
 ## Written By
 - Md. Asifur Rouf
 
-Jest is a delightful JavaScript Testing Framework with a focus on simplicity.
-
-It works with projects using: Babel, TypeScript, Node, React, Angular, Vue and more!_
+Grafana is a visualizing tool, whereas Prometheus is a database for time series. Prometheus also happens to be a very well supported back-end for Grafana, but Grafana can use back-ends like New Relic or Elasticsearch. If you have lots of, lots of services you'd like to monitor, there are other solutionts that scale better. However, Prometheus has sort of been scaled up to 1M machines.
 
 --
 
-### Getting & Creating Projects
+### Important Links
 
 | Links | Description |
 | ------- | ----------- |
-| https://github.com/danielstern/jest-examplar | A repository containing a Jest Example for React |
-| https://github.com/palcu/jest-example | jest with jasmine-reporters for Jenkins |
-| https://medium.com/hackernoon/api-testing-with-jest-d1ab74005c0a#.qfg69kf4t | API testing with Jest |
-| https://github.com/vnglst/mocking-with-jest| mocking-with-jest |
-| https://medium.com/@lucaspenzeymoog/mocking-api-requests-with-jest-452ca2a8c7d7 | Mocking API Requests with Jest|
-| https://codeburst.io/lets-build-a-rest-api-with-koa-js-and-test-with-jest-2634c14394d3| Let’s build a REST API with Koa.js and test with Jest!|
-| https://www.rithmschool.com/courses/intermediate-node-express/api-tests-with-jest| Writing API Tests with Jest |
+|https://github.com/roaldnefs/awesome-prometheus |Awesome Promethus |
+| https://awesome-prometheus-alerts.grep.to/ | Awesome Promethus Alerts |
+| https://github.com/samber/awesome-prometheus-alerts | Awesome Promethus Alerts Github Link |
+
