@@ -10,7 +10,8 @@ Grafana is a visualizing tool, whereas Prometheus is a database for time series.
 ### Hidayet of Using Prometheus
 
 1. https://github.com/prometheus/prometheus : Containing All Necessary Docs
-2. 
+2. https://prometheus.io/docs/introduction/overview/ : Prometheus Self Documentation is also awesome
+3. Introduction | Concepts | PROMETHEUS >> All the remaining portion also awesome.
 
 ### Important Links
 
