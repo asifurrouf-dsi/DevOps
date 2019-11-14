@@ -13,7 +13,23 @@ Grafana is a visualizing tool, whereas Prometheus is a database for time series.
 
 | Links | Description |
 | ------- | ----------- |
-|https://github.com/roaldnefs/awesome-prometheus |Awesome Promethus |
+| https://github.com/roaldnefs/awesome-prometheus |Awesome Promethus |
+| https://awesome-prometheus-alerts.grep.to/ | Awesome Promethus Alerts |
+| https://github.com/samber/awesome-prometheus-alerts | Awesome Promethus Alerts Github Link |
+| https://awesomeopensource.com/projects/prometheus-exporter |Prometheus Exporter Open Source Projects|
+
+### Monitoring Docker and Kubernetes Things
+
+| Links | Description |
+| ------- | ----------- |
+|https://theawesomegarage.com/blog/monitoring-your-docker-stack-with-grafana-and-prometheus |Monitoring your Docker stack with Grafana and Prometheus |
 | https://awesome-prometheus-alerts.grep.to/ | Awesome Promethus Alerts |
 | https://github.com/samber/awesome-prometheus-alerts | Awesome Promethus Alerts Github Link |
 
+### PromQL Things
+
+| Links | Description |
+| ------- | ----------- |
+|https://github.com/jitendra-1217/promql.cheat.sheet |PromQL cheat sheet |
+| https://awesome-prometheus-alerts.grep.to/ | Awesome Promethus Alerts |
+| https://github.com/samber/awesome-prometheus-alerts | Awesome Promethus Alerts Github Link |
